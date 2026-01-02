@@ -348,3 +348,27 @@ Dogeton el meme revolucionario en TON
     <script src="script.js"></script>
 </body>
 </html>
+{
+  "name": "DOGETON - Official Meme Coin",
+  "short_name": "DOGETON",
+  "description": "El primer perro nativo en TON Blockchain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1A2E",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+User-agent: *
+Allow: /
+Sitemap: https://dogeton.xyz/sitemap.xml
